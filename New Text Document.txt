@@ -1,1 +1,3 @@
-add some text to the doc
+This is the new feature
+
+Here we go the feature is done and we're ready to merge this work into the auth branch
